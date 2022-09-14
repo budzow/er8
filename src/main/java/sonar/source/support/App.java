@@ -1,7 +1,6 @@
 package sonar.source.support;
 
 /**
- *
  */
 public class App 
 {
